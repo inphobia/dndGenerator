@@ -68,7 +68,7 @@ export default class PageFooter extends Component {
           </li>
           <li>·</li>
           <li>
-            <a href="https://github.com/cellule/dndGenerator/releases">Releases</a>
+            <a href="https://github.com/cellule/dndGenerator/tags">Releases</a>
           </li>
         </ul>
       </footer>
